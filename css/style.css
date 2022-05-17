@@ -1,0 +1,202 @@
+html, body, div
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.caja{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.image{
+    vertical-align: middle ;
+    padding: 18px 10px;
+    background-color: #FFC107;
+}
+
+nav li{
+    display: inline;
+    color: white;
+    padding: 20px;
+    width: 30px;
+    height: 40px;
+    vertical-align: middle;
+}
+
+nav li:nth-last-child(-n+8){
+    color: #2196F3;
+}
+
+.banner{
+    width: 100%;
+    height: 470px;
+    background: url(../image/landing.png);
+}
+
+.banner p:first-child {
+    padding-top: 155px;
+    font-size: 60px;
+}
+
+.banner p:nth-last-child(2){
+    padding-top: 35px;
+}
+
+.banner p {
+    padding-top: 10px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+main div:first-child{
+    width: 100%;
+    background-color: white;
+}
+
+.principal{
+    position: relative;
+    margin: 0 auto;
+}
+
+.principal h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 45px 0 0 13px ;
+}
+
+.principal h3{
+    color:#9398A1;
+    margin-left: 13px;
+}
+.product{
+    display: inline-block;
+    border: 1px solid #DBDEE3;
+    width: 360x;
+    height: 560px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.product img{
+    padding: 10px 10px 35px 10px;
+    width: 515px;
+    height: 450px;
+}
+
+.product p{
+    font-weight: bold;
+    color: black;
+    padding: 5px 15px;
+}
+.product p:nth-last-child(1){
+    color: #9398A1;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+.btn-red{   
+    border: 2px solid #F44336;
+    background-color: white;
+    padding: 25px 50px 25px 50px;
+    margin-top: 45px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #F44336;
+    
+}
+
+.browse-categories p:first-child{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 65px 0 0 13px ;
+}
+
+.browse-categories p:last-child{
+    color:#9398A1;
+    margin-left: 13px;
+}
+.categories{
+    width: 1100px;
+    margin: 0 auto;
+}
+.categories button{
+    border: 2px solid #2196F3;
+    background-color: white;
+    width: 210px;
+    height: 70px;
+    padding: 25px 70px 25px 70px;
+    color: #2196F3;
+    font-weight: bold;
+    margin-top: 45px;
+    margin-left: 50px;
+}
+
+.categories-two{
+    width: 1100px;
+    margin: 0 556px;
+}
+
+.categories-two button{
+    border: 2px solid #2196F3;
+    background-color: white;
+    width: 210px;
+    height: 70px;
+    padding: 25px 68px 25px 70px;
+    color: #2196F3;
+    font-weight: bold;
+    margin-top: 45px;
+    margin-left: 50px;
+}
+
+.logo-footer{
+    margin: 90px 0;
+}
+footer{
+    width: 950px;
+    margin: 0 auto;
+}
+
+.footer-logo{
+    align-content: center;
+}
+footer li:first-child{
+    color: #F44336;
+   
+}
+
+footer li{
+    font-weight: bold;
+    list-style: none;
+    vertical-align: top;
+    margin: 10px 40px;
+}
+
+footer div:last-child{
+    vertical-align: top;
+    padding-left: 250px;
+}
+footer div{
+    display: inline-block;
+}

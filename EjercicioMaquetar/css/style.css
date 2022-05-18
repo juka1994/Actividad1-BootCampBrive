@@ -154,9 +154,9 @@ main div:first-child{
 }
 
 .categories-two{
-    width: 100%;
-    margin: 0 458px;
-    box-sizing: border-box;
+    width: 950px;
+    margin: 0 auto;
+    padding-left: 369px;
 }
 
 .categories-two button{

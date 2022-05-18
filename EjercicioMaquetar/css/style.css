@@ -156,6 +156,7 @@ main div:first-child{
 .categories-two{
     width: 915px;
     margin: 0 458px;
+    box-sizing: border-box;
 }
 
 .categories-two button{

@@ -76,6 +76,7 @@ main div:first-child{
 .principal{
     position: relative;
     margin: 0 auto;
+    width: 100%;
 }
 
 .principal h2{
@@ -91,7 +92,7 @@ main div:first-child{
 .product{
     display: inline-block;
     border: 1px solid #DBDEE3;
-    width: 360x;
+    width: 460x;
     height: 560px;
     margin: 10px;
     box-sizing: border-box;
@@ -99,7 +100,7 @@ main div:first-child{
 
 .product img{
     padding: 10px 10px 35px 10px;
-    width: 449px;
+    width: 450px;
     height: 450px;
 }
 

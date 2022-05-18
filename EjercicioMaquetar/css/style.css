@@ -99,7 +99,7 @@ main div:first-child{
 
 .product img{
     padding: 10px 10px 35px 10px;
-    width: 515px;
+    width: 449px;
     height: 450px;
 }
 
@@ -154,8 +154,8 @@ main div:first-child{
 }
 
 .categories-two{
-    width: 1100px;
-    margin: 0 556px;
+    width: 920px;
+    margin: 0 458px;
 }
 
 .categories-two button{
@@ -163,11 +163,11 @@ main div:first-child{
     background-color: white;
     width: 210px;
     height: 70px;
-    padding: 25px 68px 25px 70px;
+    padding: 25px 70px 25px 70px;
     color: #2196F3;
     font-weight: bold;
     margin-top: 45px;
-    margin-left: 50px;
+    margin-left: 55px;
 }
 
 .logo-footer{

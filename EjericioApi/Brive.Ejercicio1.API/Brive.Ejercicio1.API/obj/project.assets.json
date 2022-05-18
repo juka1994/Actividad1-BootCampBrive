@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\EjericioApi\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API.csproj",
       "projectName": "Brive.Ejercicio1.API",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\EjericioApi\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\EjericioApi\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

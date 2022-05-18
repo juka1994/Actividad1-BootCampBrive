@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KhFD5Uc8xLdV9YYhtbqg4EOHDJlZuEWDlBJ256eYpsaRizChA/nfA7at89KTcS+3feho80apCgNW/KZBQeCvQw==",
+  "dgSpecHash": "pLxUVNdGvra/K8T5WcTUvEheCfHHMf3SUFVtzJ3b3o4QvpJWT7zafvb2LvKBOze3cTet6/dT3+O/xan2q+wAFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\BootCamp Brive\\Actividad 1\\EjericioApi\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API\\Brive.Ejercicio1.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

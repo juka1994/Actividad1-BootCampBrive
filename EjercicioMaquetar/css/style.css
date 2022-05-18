@@ -92,7 +92,7 @@ main div:first-child{
 .product{
     display: inline-block;
     border: 1px solid #DBDEE3;
-    width: 460x;
+    width: 31%;
     height: 560px;
     margin: 10px;
     box-sizing: border-box;
@@ -100,7 +100,7 @@ main div:first-child{
 
 .product img{
     padding: 10px 10px 35px 10px;
-    width: 450px;
+    width: 100%;
     height: 450px;
 }
 
